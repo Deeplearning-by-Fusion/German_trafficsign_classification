@@ -29,4 +29,4 @@ Validation accuracy : 99.4%
 
 Test accuracy : 97.6%
 
-![](images/confusion_matrix.png)
+![](images/confuion_matrix.png)
