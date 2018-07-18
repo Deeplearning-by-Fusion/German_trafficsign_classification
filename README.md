@@ -3,7 +3,7 @@
 This project aims at classifying traffic signs using deep learning method. I used **German Traffic Sign Recognition Benchmark** 
 whcih consists of more than 50,000 images of 43 classes. 
 
-![](https://drive.google.com/open?id=11V4KeRjXkPuBbBaDViQvabqshYlO2SNR)
+<img src='images/traffic_data.jpg>
 
 
 ## Pipeline :
