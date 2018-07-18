@@ -28,3 +28,5 @@ In this project I am using Convolution Neural Networks which are giving promisin
 Validation accuracy : 99.4%
 
 Test accuracy : 97.6%
+
+![](images/confusion_matrix.png)
