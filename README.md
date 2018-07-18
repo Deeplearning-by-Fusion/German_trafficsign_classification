@@ -3,6 +3,8 @@
 This project aims at classifying traffic signs using deep learning method. I used **German Traffic Sign Recognition Benchmark** 
 whcih consists of more than 50,000 images of 43 classes. 
 
+![](https://drive.google.com/open?id=11V4KeRjXkPuBbBaDViQvabqshYlO2SNR)
+
 
 ## Pipeline :
   1. Google colaboratory authentication setup
@@ -24,4 +26,5 @@ In this project I am using Convolution Neural Networks which are giving promisin
 ### Results 
 
 Validation accuracy : 99.4%
+
 Test accuracy : 97.6%
